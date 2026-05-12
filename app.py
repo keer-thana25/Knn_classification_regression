@@ -500,3 +500,4 @@ st.markdown(
     "<center style='color:gray;'>KNN Machine Learning Explorer using Streamlit</center>",
     unsafe_allow_html=True
 )
+   
