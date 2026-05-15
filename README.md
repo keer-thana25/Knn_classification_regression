@@ -39,12 +39,14 @@ Knn_classification_regression/
 │
 ├── README.md
 ├── app.py
-├── knn.ipynb
-├── knn_regression.ipynb
-└── requirements.txt
+├── requirements.txt
+│
+├── classification/
+│   └── knn.ipynb
+│
+└── regression/
+    └── knn_regression.ipynb
 ```
-
----
 
 # Files Included
 
